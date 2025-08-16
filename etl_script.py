@@ -1,3 +1,4 @@
+# ETL Pipeline Automation Script
 import pandas as pd
 import mysql.connector
 
@@ -42,3 +43,4 @@ except Exception as e:
 finally:
     if 'cursor' in locals(): cursor.close()
     if 'conn' in locals(): conn.close()
+#end
