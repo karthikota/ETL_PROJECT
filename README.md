@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ETL Pipeline Automation Project
 
 ## Overview
